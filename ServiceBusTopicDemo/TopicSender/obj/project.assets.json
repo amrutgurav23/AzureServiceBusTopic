@@ -525,7 +525,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Amrut Gurav\\.nuget\\packages\\": {}
+    "C:\\Users\\Amrut Gurav\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -536,8 +537,12 @@
       "packagesPath": "C:\\Users\\Amrut Gurav\\.nuget\\packages\\",
       "outputPath": "D:\\Amrut_Study\\Azure\\AzureServiceBusTopic\\ServiceBusTopicDemo\\TopicSender\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Amrut Gurav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
